@@ -20,6 +20,10 @@ Há que se levar em consideração as dificuldades de modelagem, a saber:
 * Os números de casos e mortes confirmados disponibilizados pelas secretarias de saúde estaduais e municipais sofrem modificações históricas constantes, conforme os resultados dos testes são liberados, com casos e mortes passadas sendo agregados aos dados históricos. Além disso, alguns estados alteraram o critério de identificação do município durante o período de coleta de dados, de local de diagnóstico para local de residência do paciente.
 * Não há padronização das informações disponíveis ao público, e em casos como  o histórico de taxa de isolamento e o histórico de ocupação dos leitos de UTI, variáveis importantes para prever a aceleração da epidemia e o colapso do sistema de saúde, as informações não estão disponíveis para a grande maioria dos municípios.
 
+# Notebooks
+
+Os notebooks do projeto foram criados em Python.
+
 Portanto, o estudo a seguir não tem a intenção de ser um modelo definitivo e com altíssima precisão, mas um norte em termos de ordens de grandeza.
 
 
